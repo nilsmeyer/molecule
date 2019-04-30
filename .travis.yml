@@ -17,6 +17,7 @@ cache:
 
 services:
   - docker
+  - ec2
 
 language: python
 
